@@ -1,0 +1,1 @@
+•	Analyzed and transformed raw U.S. banking data from Excel into an interactive Power BI dashboard. Key metrics analyzed included good vs Bad Loans, Average Interest Rates, Debt-to-Loan Ratio, Average Amount Received, NPAs, Loan Purpose, and Employee-wise Loan Disbursement. All insights were visualized on a state-wise basis across the USA.
